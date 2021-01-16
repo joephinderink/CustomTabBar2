@@ -11,6 +11,7 @@
 		44E5D94325B3472C00E84F8C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E5D94225B3472C00E84F8C /* ContentView.swift */; };
 		44E5D94525B3473200E84F8C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44E5D94425B3473200E84F8C /* Assets.xcassets */; };
 		44E5D94825B3473200E84F8C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44E5D94725B3473200E84F8C /* Preview Assets.xcassets */; };
+		44E5D95125B3473C00E84F8C /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E5D95025B3473C00E84F8C /* TabBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		44E5D94425B3473200E84F8C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		44E5D94725B3473200E84F8C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		44E5D94925B3473200E84F8C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		44E5D95025B3473C00E84F8C /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				44E5D94025B3472C00E84F8C /* CustomTabBar2App.swift */,
 				44E5D94225B3472C00E84F8C /* ContentView.swift */,
+				44E5D95025B3473C00E84F8C /* TabBar.swift */,
 				44E5D94425B3473200E84F8C /* Assets.xcassets */,
 				44E5D94925B3473200E84F8C /* Info.plist */,
 				44E5D94625B3473200E84F8C /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44E5D95125B3473C00E84F8C /* TabBar.swift in Sources */,
 				44E5D94325B3472C00E84F8C /* ContentView.swift in Sources */,
 				44E5D94125B3472C00E84F8C /* CustomTabBar2App.swift in Sources */,
 			);
